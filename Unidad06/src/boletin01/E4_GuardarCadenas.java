@@ -5,13 +5,12 @@ package boletin01;
 	import java.io.PrintWriter;
 	import java.util.Scanner;
 
-public class GuardarCadenas {
+public class E4_GuardarCadenas {
 
     public static void main(String[] args) {
 
     	String nombreFichero = "CadenasUsuario.txt";
         
-        // Usamos try-with-resources para asegurar que el Scanner y el PrintWriter se cierren solos
         try (Scanner teclado = new Scanner(System.in);
              FileWriter fw = new FileWriter(nombreFichero, true); // 'true' para no borrar lo anterior
              PrintWriter pw = new PrintWriter(fw)) {

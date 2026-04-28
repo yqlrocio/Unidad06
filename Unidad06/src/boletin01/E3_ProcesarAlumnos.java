@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProcesarAlumnos {
+public class E3_ProcesarAlumnos {
 
     public static void main(String[] args) {
         File fichero = new File("src/boletin01/Alumnos.txt");

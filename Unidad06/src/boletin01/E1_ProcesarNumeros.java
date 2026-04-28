@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProcesarNumeros {
+public class E1_ProcesarNumeros {
 
     public static void main(String[] args) {
         // La ruta relativa apunta al archivo dentro del paquete

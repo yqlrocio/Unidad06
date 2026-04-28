@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProcesarEnteros {
+public class E2_ProcesarEnteros {
 
 	public static void main(String[] args) {
 
