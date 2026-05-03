@@ -1,0 +1,5 @@
+Nombre,Edad,Peso,Estatura
+Juan Pérez,25,78.5,1.80
+María López,22,62.0,1.65
+Carlos Sánchez,28,85.0,1.90
+Ana Gómez,19,55.5,1.60
